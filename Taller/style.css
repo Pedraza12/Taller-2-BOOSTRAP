@@ -1,0 +1,46 @@
+.bordelinea{
+    border: 2px solid  rgb(115, 126, 103);
+    background-color: rgb(32, 36, 35);
+    color: white;
+}
+.bordelinea1{
+    border: 2px solid rgb(115, 126, 103);
+    background-color: saddlebrown;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color: orangered;
+}
+.black{
+    background-color: black;
+}
+.border01{
+    border-radius: 8px;
+}
+.tama{
+    height: 100px;
+}
+.img{
+    background-image: url(https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/capsule_616x353.jpg?t=1695270428);
+}
+.img01{
+    padding: 6px;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    background: fixed;
+    overflow: hidden;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+}
+.img01-content{
+    position: relative;
+    z-index: 2;
+}

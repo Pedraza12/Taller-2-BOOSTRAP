@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(219, 231, 241);
+}
+.tama{
+    height: 100px;}
+.azul_clarito{
+    background-color: rgb(105, 212, 231);
+}
+.orange{
+    background-color: orangered;
+}
+.vinotinto{
+    background-color: rgb(148, 10, 93);
+}
+.bordercontenedor{
+    border-radius: 6px;
+}
